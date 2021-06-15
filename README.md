@@ -1,2 +1,2 @@
 # practise-projects
-Just basics fun projects that increase my design and code quality
+Just basic fun projects that increase my design and code quality
